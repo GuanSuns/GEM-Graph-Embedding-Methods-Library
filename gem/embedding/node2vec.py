@@ -16,6 +16,7 @@ from time import time
 
 import sys
 sys.path.append('./')
+sys.path.append('/Users/lguan/Documents/Study/ASU/CSE 575 Statistical Machine Learning/GEM-Graph-Embedding-Methods-Library/gem/c_exe/')
 sys.path.append(os.path.dirname(os.path.realpath(__file__)))
 
 from subprocess import call
